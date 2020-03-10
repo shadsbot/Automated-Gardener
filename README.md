@@ -1,4 +1,7 @@
-# Automated Gardener
+# Automated Gardener 
+
+[![Build Status](https://travis-ci.com/shadsbot/Automated-Gardener.svg?branch=master)](https://travis-ci.com/shadsbot/Automated-Gardener)
+
 The Automated Garden consists of a collection of nodes which will report to a master controller with analytics regarding soil temperature and soil moisture levels. Each node can be an independent system which will decide whether or not to water, or act as a reporter node which takes instructions from the mater controller.
 
 ## Node Structure
